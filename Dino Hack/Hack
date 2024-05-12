@@ -2,7 +2,7 @@
 
 const cheat = (() => {
     //Set speed
-    Runner.speed = 100;
+    Runner.speed = 500;
     //Save original function 
     let originalFunction = Runner.prototype.gameOver;
     // Overwrite
